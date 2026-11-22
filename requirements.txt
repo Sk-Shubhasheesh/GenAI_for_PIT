@@ -44,3 +44,9 @@ langchain_pinecone
 langchain_qdrant
 nltk 
 pyyaml
+
+rapidocr-onnxruntime
+pytesseract
+pdfplumber
+pdfminer.six
+lxml
